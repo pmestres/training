@@ -1,0 +1,26 @@
+datosPersonales:
+  nombre: Perico
+  apellidos: De Los Palotes
+  telefono: 666888999
+experienciaProfesional:
+- fechaInicio: 01-01-1995
+  fechaFinal: 01-01-2000
+  empresa: IBM
+  descripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum
+    sem sit amet rhoncus pharetra. Nulla fringilla viverra aliquet. Pellentesque blandit
+    arcu in sem gravida, nec maximus dui iaculis. Proin scelerisque ullamcorper quam,
+    at mollis elit aliquam at. Phasellus ullamcorper quam a nulla sagittis placerat.
+    Suspendisse feugiat ipsum urna. Fusce.
+- fechaInicio: 01-02-2000
+  fechaFinal: 23-05-2010
+  empresa: Google Company
+  descripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum
+    sem sit amet rhoncus pharetra. Nulla fringilla viverra aliquet. Pellentesque blandit
+    arcu in sem gravida, nec maximus dui iaculis. Proin scelerisque ullamcorper quam,
+    at mollis elit aliquam at. Phasellus ullamcorper quam a nulla sagittis placerat.
+    Suspendisse feugiat ipsum urna. Fusce.
+formacionCurricular:
+- fechaInicio: 01-09-1996
+  fechaFinal: 01-02-2000
+  titulo: Ingenieria informática
+  centro: MIT

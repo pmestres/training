@@ -1,0 +1,30 @@
+{
+  "agenda": {
+  	"contactos": [
+  		{
+        "id": 1,
+  			"nombre": "Daniel García",
+  			"telefono": "666888555",
+        "sustituto": 3
+  		},
+  		{
+        "id": 3,
+  			"nombre": "Joan Salvat",
+  			"telefono": "666888555",
+        "sustituto": 4
+  		},
+  		{
+        "id": 4,
+  			"nombre": "Perico Palotes",
+  			"telefono": "666888555",
+        "sustituto": null
+  		},
+  		{
+        "id": 5,
+  			"nombre": "Soledad Martínez",
+  			"telefono": "666888555",
+  			"sustituto": 1
+  		}
+  	]
+  }  
+}

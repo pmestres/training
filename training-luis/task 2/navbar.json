@@ -1,0 +1,134 @@
+{
+  "navbar": {
+    "options": [
+      {
+        "name": "Sublime Text",
+        "shortcut": null,
+        "group": 0,
+        "options": [
+          {
+            "name": "About Sublime Text",
+            "shortcut": null,
+            "status": "active",
+            "group": 0,
+            "options": []
+          },
+          {
+            "name": "Check for Updates...",
+            "shortcut": null,
+            "status": "active",
+            "group": 0,
+            "options": []
+          },
+          {
+            "name": "Preferences",
+            "shortcut": null,
+            "status": "active",
+            "group": 1,
+            "options": [
+              {
+                "name": "Browse packages...",
+                "shortcut": null,
+                "status": "active",
+                "group": 0,
+                "options": []
+              },
+              {
+                "name": "Settings - Default",
+                "shortcut": null,
+                "status": "active",
+                "group": 1,
+                "options": []
+              },
+              {
+                "name": "Settings - User",
+                "shortcut": "cmd + ,",
+                "status": "active",
+                "group": 1,
+                "options": []
+              },
+              {
+                "name": "Settings - More",
+                "shortcut": null,
+                "status": "active",
+                "group": 1,
+                "options": [
+                  {
+                    "name": "Syntax Specific - User",
+                    "shortcut": null,
+                    "status": "active",
+                    "group": 0,
+                    "options": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Services",
+            "shortcut": null,
+            "status": "active",
+            "group": 2,
+            "options": []
+          },
+          {
+            "name": "Hide Sublime Text",
+            "shortcut": "cmd + H",
+            "status": "active",
+            "group": 3,
+            "options": []
+          },
+          {
+            "name": "Hide Others",
+            "shortcut": "cmd + option + H",
+            "status": "active",
+            "group": 3,
+            "options": []
+          },
+          {
+            "name": "Show all",
+            "shortcut": null,
+            "status": "disabled",
+            "group": 3,
+            "options": []
+          },
+          {
+            "name": "Quit Sublime Text",
+            "shortcut": "cmd + Q",
+            "status": "active",
+            "group": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "name": "File",
+        "shortcut": null,
+        "status": "active",
+        "group": 0,
+        "options": []
+      },
+      {
+        "name": "Edit",
+        "shortcut": null,
+        "status": "active",
+        "group": 0,
+        "options": []
+      },
+      {
+        "name": "Selection",
+        "shortcut": null,
+        "status": "active",
+        "group": 0,
+        "options": []
+      },
+      {
+        "name": "Find",
+        "shortcut": null,
+        "status": "active",
+        "group": 0,
+        "options": []
+      }
+    ]
+  }
+}

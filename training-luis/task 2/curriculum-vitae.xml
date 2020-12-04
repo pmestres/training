@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.library.org" xmlns:lib="http://www.library.org" elementFormDefault="qualified">
+<miCurriculum>
+	<datosPersonales>
+		<element name="nombre" value="Perico"/>
+		<element name="apellidos" value="De Los Palotes"/>
+		<element name="telefono" value="666888999"/>
+	</datosPersonales>
+	<experienciaProfesional>
+		<experiencia>
+			<fecha-inicio>01-01-1995</fecha-inicio>
+			<fecha-final>01-01-2000</fecha-final>
+			<empresa>IBM</empresa>
+			<descripcion>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum sem sit amet rhoncus pharetra. Nulla fringilla viverra aliquet. Pellentesque blandit arcu in sem gravida, nec maximus dui iaculis. Proin scelerisque ullamcorper quam, at mollis elit aliquam at. Phasellus ullamcorper quam a nulla sagittis placerat. Suspendisse feugiat ipsum urna. Fusce.
+			</descripcion>
+		</experiencia>
+		<experiencia>
+			<fecha-inicio>01-02-2000</fecha-inicio>
+			<fecha-final>23-05-2010</fecha-final>
+			<empresa>Google Company</empresa>
+			<descripcion>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum sem sit amet rhoncus pharetra. Nulla fringilla viverra aliquet. Pellentesque blandit arcu in sem gravida, nec maximus dui iaculis. Proin scelerisque ullamcorper quam, at mollis elit aliquam at. Phasellus ullamcorper quam a nulla sagittis placerat. Suspendisse feugiat ipsum urna. Fusce.
+			</descripcion>
+		</experiencia>
+	</experienciaProfesional>
+	<formacionCurricular>
+		<formacion>
+			<fecha-inicio>01-09-1996</fecha-inicio>
+			<fecha-final>01-02-2000</fecha-final>
+			<titulo>Ingenieria informática</titulo>
+			<centro>MIT</centro>			
+		</formacion>
+	</formacionCurricular>
+</miCurriculum>
