@@ -48,7 +48,7 @@
         function createTable(app) {
             let table = document.createElement('table');
             createHeaders(table);
-            setBody(COUNTRIES);
+            setBody(COUNTRIES, table);
             app.append(table);
         }
 
@@ -62,7 +62,7 @@
             table.append(tr);
         }
  
-        function setBody(data) {
+        function setBody(data, table) {
             let bodyTable = data.map(bodyData => {
                 let bodyRow = document.createElement('tr');
                 Object.values(bodyData).map(text => {
