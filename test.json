@@ -1,0 +1,128 @@
+ [
+        {
+            num: 1,
+            title: "LF42",
+            top: 30,
+            left: 75,
+            relatedBox: "l",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 2,
+            title: "LF41b",
+            top: 42,
+            left: 74,
+            relatedBox: "n",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 3,
+            title: "LF41a",
+            top: 54,
+            left: 71,
+            relatedBox: "p",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 4,
+            title: "LF40b",
+            top: 67,
+            left: 64,
+            relatedBox: "s",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 5,
+            title: "LF40",
+            top: 71,
+            left: 54,
+            relatedBox: "r",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 6,
+            title: "RF40",
+            top: 71,
+            left: 39,
+            relatedBox: "h",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 7,
+            title: "RF40b",
+            top: 67,
+            left: 28,
+            relatedBox: "i",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 8,
+            title: "RF41a",
+            top: 54,
+            left: 22,
+            relatedBox: "f",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 9,
+            title: "RF41b",
+            top: 42,
+            left: 20,
+            relatedBox: "d",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 10,
+            title: "RF42",
+            top: 30,
+            left: 20,
+            relatedBox: "b",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 11,
+            title: "RF50",
+            top: 5,
+            left: 26,
+            relatedBox: "c",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 12,
+            title: "LF50",
+            top: 5,
+            left: 67,
+            relatedBox: "m",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 13,
+            title: "RS10",
+            top: 20,
+            left: 22,
+            relatedBox: "a",
+            isHidden: false,
+            isHovered: false
+        },
+        {
+            num: 14,
+            title: "LS10",
+            top: 20,
+            left: 73,
+            relatedBox: "k",
+            isHidden: false,
+            isHovered: false
+        }
+    ]
